@@ -1,7 +1,7 @@
 <?php session_start();
 require_once('includes/config.php');
 
-//Code for Registration 
+//Code for Registration this is additional data on sept
 if(isset($_POST['submit']))
 {
     $fname=$_POST['fname'];
